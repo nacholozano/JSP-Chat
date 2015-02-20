@@ -1,0 +1,52 @@
+.titulo{
+    font-size: 5em;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.cabecera,.envio,body{
+    background: #5CADFF;
+}
+
+.conversacion{
+    padding: 2%;
+    background: #9DCEFF;
+}
+
+.cabecera{
+    padding-bottom: 1%;
+}
+
+.formCerrar{
+    margin-top: 4%;
+    margin-bottom: 2%;
+}
+
+.chat{
+    height: 70vh;
+    overflow-y: scroll;
+    padding-right: 9%;
+}
+
+.mensaje{
+    word-wrap: break-word;
+    background: white;
+    margin-top:2%;
+    margin-bottom:2%;
+    padding-top: 2%;
+    border-radius: 10px;
+}
+
+.fechaMensaje{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.horaMensaje{
+    margin-bottom: 1%;
+}
+
+.envio{
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
