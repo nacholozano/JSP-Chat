@@ -1,6 +1,6 @@
 # JSP-Chat 
 
-#First school year project
+First school year project
 
 This is a JSP Chat with learning purpose
 
